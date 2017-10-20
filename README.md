@@ -70,3 +70,5 @@ The following setup steps only need to be completed **once per team**:
 1. For each feature that you work on, create a new branch in your forked SlackBot repo named `XXMMDD_FeatureName`, where `XXMMDD` are your initials and the month and day and `FeatureName` describes the feature you are working on. When you finish each feature, add, commit and push your changes. On GitHub, open a new Pull Request and assign it to your teammate to review and merge.
 
 2. This assignment is due by ***9pm on Saturday 9/18***. All code should be committed and pushed by the deadline. Each team member should complete the Google Form (check Slack!) to submit.
+
+My addition to the file.
